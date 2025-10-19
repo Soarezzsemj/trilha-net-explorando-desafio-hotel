@@ -49,7 +49,7 @@ namespace DesafioProjetoHospedagem.Models
             // Cálculo: DiasReservados X Suite.ValorDiaria
             // *IMPLEMENTE AQUI*
             
-            decimal valor = (DiasReservados * Suite.ValorDiaria);;
+            decimal valor = (DiasReservados * Suite.ValorDiaria);
 
             // Regra: Caso os dias reservados forem maior ou igual a 10, conceder um desconto de 10%
             // *IMPLEMENTE AQUI*
